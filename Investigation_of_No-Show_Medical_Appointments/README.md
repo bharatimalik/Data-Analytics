@@ -1,5 +1,5 @@
 
-# Investigation of No-Show Medical Appointments
+# Investigating medical appointments dataset by performing Exploratory Data Analysis
 
 > Project submission for Udacity Data Analyst Nano Degree Program
 
