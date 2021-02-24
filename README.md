@@ -1,2 +1,2 @@
 # Data-Analytics
-Independent Projects practices using Udaciy, Kaggle, Udemy website
+Independent Projects using Udaciy, Kaggle, Udemy resources
