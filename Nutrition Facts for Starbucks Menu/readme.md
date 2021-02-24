@@ -1,4 +1,4 @@
-# Exploratory Analysis on Starbucks dataset found on Kaggle.
+# Exploratory Analysis on Starbucks dataset found on Kaggle
 
 ### About the dataset
 
