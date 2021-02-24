@@ -5,7 +5,7 @@
 Starbucks is an American coffee chain founded in Seattle. It serves both beverages and food.
 This dataset includes the nutritional information for Starbucks’ food and drink menu items. All nutritional information for drinks are for a 12oz serving size.
 
-More information can be read on [this](https://www.kaggle.com/starbucks/starbucks-menu) following link
+More information can be read on [here](https://www.kaggle.com/starbucks/starbucks-menu)
 
 ### Findings
 
