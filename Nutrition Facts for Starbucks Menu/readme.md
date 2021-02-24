@@ -13,5 +13,5 @@ More information can be read on [here](https://www.kaggle.com/starbucks/starbuck
 - Calories and Sugar are highly correlated in the positive direction
 
 ### Future Scope
-- Using prediction/classification analysis for one of the beverages
+- Using prediction/classification analysis for one/more of the beverages
 
